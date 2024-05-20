@@ -9,19 +9,19 @@ ________________________________________________________________________
 >
 >> I know basic and some complex HTML and CSS.
 >>
->> Ive made multiple websites from scrath using them both!
+>> I've made multiple websites from scratch using them both!
 >
 > 💬 Ask me about anything!
 >
 > 📫 How to reach me:
 >
-> email me at: ecobobtrev2@gmail.com
+> Email me at: ecobobtrev2@gmail.com
 > 
-> Insta: [@Aidan_bankeroonie](https://instagram.com/Aidan_bankeroonie)
+> Insta: [@Aidan_bankeroonie](https://www.instagram.com/aidan_bankeronnie/)
 > 
-> Facebook: [@Aidan Banks](https://facebook.com/Aidanbanks)
+> Facebook: [@Ecobobtrev2](https://www.facebook.com/Ecobobtrev2/)
 > 
-> Tiktok: [@Ecobobtrev2](https://tiktok.com/ecobobtrev2)
+> Tiktok: [@Ecobobtrev2](https://www.tiktok.com/@ecobobtrev)
 
 ______________________________
 
@@ -42,3 +42,13 @@ _____________________________
 > * __Skateboarding__
 >
 > * Haning out with friends
+
+____________________________
+
+## 📈Stats
+
+> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ecobobtrev2&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+> 
+> ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ecobobtrev2&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+> 
+> ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ecobobtrev2&theme=midnight-purple&hide_border=true)
