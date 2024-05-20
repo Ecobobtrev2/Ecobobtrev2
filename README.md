@@ -27,11 +27,11 @@ ______________________________
 
 ## 🛠 Technology Stack
 
-> Simple C++
+> __Simple C++__
 > 
-> HTML/JAVA/CSS
+> __HTML/JAVA/CSS__
 > 
-> Linux Shell
+> __Linux Shell__
 
 _____________________________
 
@@ -41,4 +41,4 @@ _____________________________
 >
 > * __Skateboarding__
 >
-> Haning out with friends
+> * Haning out with friends
