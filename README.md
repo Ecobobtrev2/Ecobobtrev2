@@ -1,6 +1,8 @@
 # **Welcome My name is Aidan at Grand Blanc Highschool!**
 ## APCSP - RESUME
 
+________________________________________________________________________
+
 > 🔭 I’m currently working on schooling, and trying to better myself.
 > 
 > 🌱 I’m currently learning a better understanding of HTML and CSS.
@@ -21,9 +23,7 @@
 > 
 > Tiktok: @Aidan Banks
 
-       
-
-
+______________________________
 
 ## 🛠 Technology Stack
 
@@ -33,3 +33,12 @@
 > 
 > Linux Shell
 
+_____________________________
+
+## 🛹 Things I like to do 
+
+> I love hiking and going outside not being a bum
+>
+> Skateboarding
+>
+> Haning out with friends
