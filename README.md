@@ -37,8 +37,8 @@ _____________________________
 
 ## 🛹 Things I like to do 
 
-> I love hiking and going outside not being a bum
+> * I love hiking and going outside not being a bum
 >
-> Skateboarding
+> * __Skateboarding__
 >
 > Haning out with friends
