@@ -17,11 +17,11 @@ ________________________________________________________________________
 >
 > email me at: ecobobtrev2@gmail.com
 > 
-> Insta: @Aidan_bankeroonie
+> Insta: [@Aidan_bankeroonie](https://instagram.com/Aidan_bankeroonie)
 > 
-> Facebook: @AidanBanks
+> Facebook: [@Aidan Banks](https://facebook.com/Aidanbanks)
 > 
-> Tiktok: @Aidan Banks
+> Tiktok: [@Ecobobtrev2](https://tiktok.com/ecobobtrev2)
 
 ______________________________
 
