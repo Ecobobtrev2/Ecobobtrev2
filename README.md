@@ -47,8 +47,8 @@ ____________________________
 
 ## 📈Stats
 
-> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ecobobtrev2&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-> 
 > ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ecobobtrev2&theme=midnight-purple&hide_border=true)
+> 
+> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ecobobtrev2&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 > 
 > ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ecobobtrev2&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
