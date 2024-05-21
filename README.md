@@ -43,6 +43,7 @@ _____________________________
 >
 > * Haning out with friends
 
+<image src="skateboarder.png"/>
 ____________________________
 
 ## 📈Stats
