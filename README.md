@@ -43,15 +43,8 @@ _____________________________
 >
 > * Haning out with friends
 
-<image src="skateboarder.jpg" div="Image" width="47" height="46"/>
+<image src="skateboarder.jpg" div="Image" width="100" height="100" border-radius="30"/>
 
-<style>
-  .Image {
-    border-radius: 30px;
-    width: 100%;
-    height: 400px;
-  }
-</style>
 ____________________________
 
 ## 📈Stats
