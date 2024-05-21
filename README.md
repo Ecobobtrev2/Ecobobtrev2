@@ -46,7 +46,7 @@ _____________________________
 <image src="skateboarder.jpg"/>
 
 <style>
-  image {
+  .image {
     border-radius: 30px;
   }
 </style>
