@@ -43,7 +43,7 @@ _____________________________
 >
 > * Haning out with friends
 
-<image src="skateboarder.jpg" div="Image"/>
+<image src="skateboarder.jpg" div="Image" width="47" height="46"/>
 
 <style>
   .Image {
