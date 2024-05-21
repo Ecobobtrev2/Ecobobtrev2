@@ -43,23 +43,7 @@ _____________________________
 >
 > * Haning out with friends
 
-<style>
-  img {
-    border-radius: 50%;
-  }
-</style>
-
-<img src="skateboarder.jpg" div="Image" width="250" height="250" border-radius="30"/>
-
-<style>
-mark{
-    color:red;
-}
-</style>
-
-<mark>what is DataBase</mark>
-
-
+<img src="skateboarder.jpg" div="Image" width="250" height="250" border-radius=50% />
 
 ____________________________
 
