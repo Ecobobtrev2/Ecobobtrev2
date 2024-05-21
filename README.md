@@ -43,7 +43,7 @@ _____________________________
 >
 > * Haning out with friends
 
-<image src="skateboarder.jpg" div="Image" width="100" height="100" border-radius="30"/>
+<image src="skateboarder.jpg" div="Image" width="1000" height="1000" border-radius="30"/>
 
 ____________________________
 
