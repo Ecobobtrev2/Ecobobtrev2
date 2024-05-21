@@ -44,6 +44,12 @@ _____________________________
 > * Haning out with friends
 
 <image src="skateboarder.jpg"/>
+
+<style>
+  image {
+    border-radius: 30px;
+  }
+</style>
 ____________________________
 
 ## 📈Stats
