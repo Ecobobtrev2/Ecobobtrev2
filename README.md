@@ -43,8 +43,6 @@ _____________________________
 >
 > * Haning out with friends
 
-![image](skateboarder.jpg)
-
 <img src="skateboarder.jpg" div="Image" width="250" height="250" border-radius=50% />
 
 ____________________________
